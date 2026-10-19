@@ -4,7 +4,7 @@
   <img alt="David Ngeiywa — I engineer national-scale software. Nairobi · Laravel · Next.js · Postgres · Flutter · M-Pesa · KRA eTIMS" src="assets/header-dark.png" width="100%">
 </picture>
 
-I'm a software engineer and founder in Nairobi. I co-founded **Novatrix** (trade, logistics and business software for Africa) and **Baobab Labs**, and I'm Head of IT at **Digital Tailor Agency** on a consultancy basis.
+I'm a software engineer and founder in Nairobi: founder of **Nolvex**, co-founder of **Novatrix** (trade, logistics and business software for Africa) and **Baobab Labs**, and Head of IT on a consultancy basis at **Digital Tailor Agency** and **Call Experts**.
 
 I build the load-bearing parts: multi-tenant data models, payroll and tax engines, payments that reconcile, and the integrations — M-Pesa, KRA eTIMS, biometrics, LLMs — that make them work in Kenya. 2,900+ commits across 40+ platforms since 2021, almost all in private client repositories, so the case studies live on [my site](https://davidngeiywa.github.io).
 
